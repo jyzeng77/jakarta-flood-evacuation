@@ -1,0 +1,17 @@
+{
+  "peak_evacuees_date": "2020-01-02",
+  "peak_reported_evacuees": 36445,
+  "reported_sites_at_peak": 247,
+  "first_day_to_peak_evacuees_pct_change": 16.7,
+  "first_day_to_peak_sites_pct_change": -8.2,
+  "peak_to_next_day_evacuees_pct_change": -75.4,
+  "highest_evacuees_per_reported_site_date": "2020-01-05",
+  "highest_evacuees_per_reported_site": 320.6,
+  "last_day_flooded_rw": 0,
+  "last_day_reported_evacuees": 691,
+  "last_day_reported_sites": 6,
+  "historical_months": 14,
+  "affected_rw_vs_peak_evacuees_spearman": 0.771,
+  "jan_to_feb_affected_rw_pct_change": 49.0,
+  "jan_to_feb_peak_evacuees_pct_change": -62.1
+}
